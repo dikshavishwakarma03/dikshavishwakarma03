@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning NextJS & TypeScript<br>📫  reach me through vdiksha621@gmail.com</p>
+<p align="left">🌱 I’m currently learning NextJS & TypeScript<br>
+
+📫  reach me through vdiksha621@gmail.com</p>
 
 ###
 

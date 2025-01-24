@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This Is Diksha Vishwakarma and I'm a Web Developer from India</p>
+<p align="center">This Is Diksha Vishwakarma and I'm a Web Developer from India</p>
 
 ###
 

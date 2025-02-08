@@ -52,12 +52,13 @@
 
 ###
 
+
 <div align="left">
-<div align="left">
-  <a href="https://www.linkedin.com/in/diksha-vishwakarma10/" width="52" height="40" alt="linkedin logo"  />
-  <a href="vdiksha621@gmail.com" width="52" height="40" alt="gmail logo"  />
-  <a  href="diksha.vishwakarma03" width="52" height="40" alt="instagram logo"  />
+  <img src="https://www.linkedin.com/in/diksha-vishwakarma10/" width="52" height="40" alt="linkedin logo"  />
+  <img src="vdiksha621@gmail.com" width="52" height="40" alt="gmail logo"  />
+  <img src="diksha.vishwakarma03" width="52" height="40" alt="instagram logo"  />
 </div>
+
 
 </div>
 

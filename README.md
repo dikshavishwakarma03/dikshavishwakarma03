@@ -53,15 +53,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/diksha-vishwakarma10/" target="_blank">
-   
-  </a>
-  <a href="mailto:vdiksha621@gmail.com">
- 
-  </a>
-  <a href="https://www.instagram.com/diksha.vishwakarma03" target="_blank">
-   
-  </a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/diksha-vishwakarma10/" width="52" height="40" alt="linkedin logo"  />
+  <a href="vdiksha621@gmail.com" width="52" height="40" alt="gmail logo"  />
+  <a  href="diksha.vishwakarma03" width="52" height="40" alt="instagram logo"  />
+</div>
+
 </div>
 
 
